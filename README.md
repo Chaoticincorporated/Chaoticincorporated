@@ -28,6 +28,8 @@
     Once you've indicated your desired format, you can then choose to have it generate an unpopulated json file <br>
     or provide it with a text file to populated the members with.
   </p>
+  <h3>Dungeon Exploration Game</h3>
+  <p>details to be added</p>
 </div>
 
 <!--
